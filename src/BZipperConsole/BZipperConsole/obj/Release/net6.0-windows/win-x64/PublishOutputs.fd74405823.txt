@@ -1,0 +1,2 @@
+E:\GitHub\EasyBZipper\src\BZipperConsole\BZipperConsole\bin\Release\net6.0-windows\publish\win-x64\EasyBZipper.pdb
+E:\GitHub\EasyBZipper\src\BZipperConsole\BZipperConsole\bin\Release\net6.0-windows\publish\win-x64\EasyBZipper.exe
