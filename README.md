@@ -1,19 +1,18 @@
 <font face = "Trebuchet MS">
 <div align="center">
-    <h2 align="center">Project Title</h2>
-    <p align="center">Project Description</p>
+    <h2 align="center">Easy-BZipper</h2>
+    <p align="center">This project is mostly created for Source powered games like CS:GO. The FastDownload is using bzip files on servers. If you own a server and using fastdl, just drop this program into the main folder of your models/sounds/etc and the program goes through all the sub-directory and files and compress them.</p>
     <b>
-        <a href="https://github.com/K4ryuu/Project_Template/releases">Download</a>
+        <a href="https://github.com/K4ryuu/EasyBZipper/releases">Download</a>
         ·
-        <a href="https://github.com/K4ryuu/Project_Template/issues">Report Bug</a>
+        <a href="https://github.com/K4ryuu/EasyBZipper/issues">Report Bug</a>
         ·
-        <a href="https://github.com/K4ryuu/Project_Template/issues">Request Feature</a>
+        <a href="https://github.com/K4ryuu/EasyBZipper/issues">Request Feature</a>
     </b>
     <br/>
     <b>Do not forget to give a ⭐ on the projects!</b><br/><br/>
     <b>Love the project? Please consider donating to help it improve!</b><br/>
     <b>PayPal:</b> paypal@kitsune-lab.dev<br/>
-    <b>Patreon:</b> https://www.patreon.com/kitsunelab
 </div>
 
 <p align="center">
