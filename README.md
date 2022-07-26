@@ -1,6 +1,6 @@
 <font face = "Trebuchet MS">
 <div align="center">
-    <h2 align="center">Ease-BZipper</h2>
+    <h2 align="center">Easy-BZipper</h2>
     <p align="center">This project is mostly created for Source powered games like CS:GO. The FastDownload is using bzip files on servers. If you own a server and using fastdl, just drop this program into the main folder of your models/sounds/etc and the program goes through all the sub-directory and files and compress them.</p>
     <b>
         <a href="https://github.com/K4ryuu/Project_Template/releases">Download</a>
